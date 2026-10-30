@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Psychedelia Academy</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="icon" type="image/jpeg" href="/favicon.jpg"><link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600&family=Sora:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#050B1E;--surface:#0C1736;--line:#1B2B57;--text:#EAF2FF;--mute:#8FA3CC;--cyan:#1AB6FF;--orange:#FF9F0F}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:16px/1.65 'Plus Jakarta Sans',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+h1,h2,h3,header b,.overall b,.ring div,.btn,.done{font-family:Sora,'Plus Jakarta Sans',system-ui,sans-serif}
+h1{letter-spacing:-.03em}h2,h3,header b{letter-spacing:-.015em}
+button,input{font:inherit}:focus-visible{outline:2px solid var(--cyan);outline-offset:2px}
+.wrap{max-width:1120px;margin:0 auto;padding:0 clamp(16px,4vw,28px)}
+header{border-bottom:1px solid var(--line)}header .wrap{display:flex;align-items:center;gap:12px;height:64px}
+header img.l{width:34px;height:34px;border-radius:8px}header img.a{width:34px;height:34px;border-radius:50%;margin-left:auto}header b{font-weight:700;font-size:19px}
+@property --a{syntax:'<angle>';initial-value:0deg;inherits:false}
+@keyframes spin{to{--a:360deg}}@keyframes float{50%{transform:translateY(-6px)}}
+.glow{border:2px solid transparent;background:linear-gradient(var(--surface),var(--surface)) padding-box,conic-gradient(from var(--a),var(--cyan),var(--line),var(--orange),var(--line),var(--cyan)) border-box;animation:spin 8s linear infinite}
+.hero{margin-top:24px;border-radius:20px;overflow:hidden;border-width:6px;animation-duration:2.5s}.banner{width:100%;display:block}
+.intro{padding:34px 0 8px;text-align:center}.intro .sub{margin:0 auto 6px;max-width:660px;font-size:clamp(15px,2.3vw,18px);line-height:1.75;font-weight:500;color:#C3D3F2}.sub b{font-weight:700}.sub .c{color:var(--cyan)}.sub .o{color:var(--orange)}.gr{background:linear-gradient(90deg,var(--cyan),var(--orange));-webkit-background-clip:text;background-clip:text;color:transparent}h1{font-size:clamp(24px,4.4vw,46px);line-height:1.15;margin:0 0 14px;font-weight:700}
+.intro p,.count,.card p,.overall span{color:var(--mute);margin:0}
+.bar{display:flex;flex-wrap:wrap;gap:18px;justify-content:space-between;align-items:center;border-radius:16px;padding:22px 26px;margin:28px 0 32px}
+.bar input{background:var(--bg);border:1px solid var(--line);color:var(--text);border-radius:8px;padding:8px 12px;margin-left:8px}
+.nm{display:flex;gap:8px;align-items:center}.nm input{margin:0;min-width:0;width:200px}.done{background:var(--orange);color:#021028;border:0;border-radius:8px;min-height:44px;padding:10px 20px;font-size:14px;font-weight:600;cursor:pointer}.done:hover{background:#ffb23d}
+.hi{flex:1;min-width:260px;display:flex;align-items:center;gap:18px}.hi .em{font-size:48px;line-height:1}.hi-t{font-family:Sora,sans-serif;font-size:clamp(22px,3.4vw,32px);font-weight:700;letter-spacing:-.02em}.hi p{color:var(--mute);margin:2px 0 0}.join{flex:1;min-width:260px}.join .nm{margin-top:12px}.join .nm input{flex:1;max-width:320px;padding:11px 14px}
+footer{margin-top:24px;border-top:1px solid var(--line);background:linear-gradient(180deg,#07102A,var(--bg));position:relative}
+footer::before{content:"";position:absolute;left:0;right:0;top:-1px;height:2px;background:linear-gradient(90deg,transparent,var(--cyan),var(--orange),transparent)}
+.f1{display:flex;justify-content:space-between;gap:32px;flex-wrap:wrap;padding:40px 0 28px}.fb{max-width:400px}
+.fb .row{display:flex;align-items:center;gap:10px;font:700 19px Sora,sans-serif}.fb img{width:36px;height:36px;border-radius:9px}.fb p{color:var(--mute);font-size:14px;margin:12px 0 0}
+.fs h4{font:600 12px Sora,sans-serif;letter-spacing:.1em;text-transform:uppercase;color:var(--mute);margin:0 0 14px}
+.soc{display:flex;gap:10px;flex-wrap:wrap}.soc a{display:flex;align-items:center;gap:10px;padding:11px 18px;border:1px solid var(--line);border-radius:999px;background:var(--surface);color:var(--text);text-decoration:none;font-size:14px;font-weight:600;transition:transform .2s,border-color .2s,color .2s}
+.soc svg{width:18px;height:18px;fill:currentColor}.soc a:hover{transform:translateY(-2px);border-color:var(--c);color:var(--c)}
+.disc{border-top:1px solid var(--line);padding:20px 0;color:var(--mute);font-size:12.5px;line-height:1.75}.disc b{color:var(--text)}
+.cp{border-top:1px solid var(--line);padding:16px 0 26px;display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;color:var(--mute);font-size:13px}
+.overall{text-align:right}.overall b{font-size:28px;color:var(--orange);display:block;line-height:1.1}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,320px),1fr));gap:28px;padding:4px 0 64px}
+.card{border-radius:16px;overflow:hidden;border-width:3px;animation:spin 1.75s linear infinite,float 6s ease-in-out infinite;transition:box-shadow .3s}.card:hover{box-shadow:0 12px 32px rgba(26,182,255,.2)}.card:nth-child(2n){animation-delay:0s,-2s}.card:nth-child(3n){animation-delay:0s,-4s}
+.thumb{position:relative;aspect-ratio:16/9;background:linear-gradient(135deg,#12307a,#050B1E) center/cover}
+.cb{padding:24px}.cb h3{margin:0 0 6px;font-size:20px;line-height:1.3}.cb .btn{margin-top:20px;width:100%}
+.btn{background:var(--cyan);color:#021028;border:0;border-radius:10px;min-height:46px;padding:13px 22px;font-weight:600;cursor:pointer;text-decoration:none;display:inline-block;text-align:center}
+.btn:hover{background:#4cc7ff}.btn.ghost{background:transparent;color:var(--text);border:1px solid var(--line)}.btn.or{background:var(--orange)}.btn:disabled{opacity:.4;cursor:not-allowed}
+.qwrap{max-width:680px;margin:0 auto;padding:28px 0 56px}.top{display:flex;justify-content:space-between}
+.link{background:none;border:0;color:var(--cyan);cursor:pointer;padding:8px 0;text-decoration:none}
+h2{margin:16px 0 12px;font-size:20px;font-weight:600}.prog{height:6px;background:var(--line);border-radius:3px;overflow:hidden}
+.prog i{display:block;height:100%;background:var(--cyan);transition:width .3s}.count{margin:10px 0 0;font-size:14px}
+.q{font-size:22px;line-height:1.35;margin:18px 0}.opts{display:grid;gap:10px}
+.opt{display:flex;gap:12px;align-items:center;text-align:left;background:var(--surface);color:var(--text);border:1px solid var(--line);border-radius:10px;padding:14px;cursor:pointer}
+.opt span{flex:none;width:28px;height:28px;border-radius:6px;background:var(--bg);display:grid;place-items:center;font-size:13px;color:var(--mute)}
+.opt:hover{border-color:var(--cyan)}.opt.on{border-color:var(--orange);background:#1a1f3a}.opt.on span{background:var(--orange);color:#021028}
+.nav{display:flex;justify-content:space-between;margin-top:24px}
+.res{max-width:480px;margin:0 auto;padding:48px 0;text-align:center}
+.ring{width:190px;height:190px;border-radius:50%;margin:24px auto;display:grid;place-items:center}
+.ring div{width:150px;height:150px;border-radius:50%;background:var(--bg);display:grid;place-items:center;font-size:44px;font-weight:700}
+.res .btn{margin:6px}.empty{padding:48px 0;color:var(--mute)}
+@media (prefers-reduced-motion:reduce){.glow,.card{animation:none}.prog i,.soc a{transition:none}}
+html{-webkit-text-size-adjust:100%}
+@media(max-width:640px){
+header .wrap{height:58px}header b{font-size:17px}
+.hero{border-width:4px;border-radius:16px;margin-top:16px}.banner{height:150px;object-fit:cover;object-position:65% center}
+.intro{padding:24px 0 4px}
+.bar{padding:18px;gap:14px;margin:20px 0 24px}.bar .overall{text-align:left;width:100%;border-top:1px solid var(--line);padding-top:14px}
+.hi{gap:12px}.hi .em{font-size:38px}.join .nm input{max-width:none;width:100%}
+.grid{gap:22px;padding-bottom:40px}.cb{padding:20px}
+.qwrap{padding:20px 0 40px}.q{font-size:19px}.opt{padding:14px 12px;min-height:56px}
+.nav{gap:12px}.nav .btn{flex:1}
+.res{padding:32px 0}.res .btn{display:block;margin:10px 0}.ring{width:168px;height:168px}.ring div{width:132px;height:132px;font-size:38px}
+.f1{padding:32px 0 22px;gap:24px}.soc a{flex:1 1 auto;justify-content:center}.cp{flex-direction:column}
+}
+@media(max-width:360px){.hi-t{font-size:20px}}
+.thumb::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(5,11,30,0) 55%,rgba(12,23,54,.85))}
+.chip{position:absolute;z-index:1;top:12px;left:12px;background:rgba(5,11,30,.72);backdrop-filter:blur(6px);border:1px solid var(--line);border-radius:999px;padding:4px 12px;font:600 12px Sora,sans-serif;letter-spacing:.04em}
+.chip.q{top:auto;left:auto;right:12px;bottom:12px;color:var(--cyan)}
+.soonl{position:absolute;z-index:1;inset:0;display:grid;place-items:center;font:600 16px Sora,sans-serif;color:var(--mute)}
+.card.soon{opacity:.8}.card.soon .btn{background:var(--line);color:var(--mute);cursor:not-allowed;opacity:1}
+.thumb{display:block}.play{position:absolute;z-index:1;left:50%;top:50%;width:60px;height:60px;margin:-30px 0 0 -30px;border-radius:50%;background:rgba(5,11,30,.65);border:2px solid #fff;backdrop-filter:blur(4px);transition:transform .2s,background .2s}
+.play::before{content:"";position:absolute;left:23px;top:17px;border-left:18px solid #fff;border-top:11px solid transparent;border-bottom:11px solid transparent}
+a.thumb:hover .play{transform:scale(1.1);background:var(--cyan)}
+</style></head><body>
+<header><div class="wrap"><img class="l" src="/img/logo.jpg" alt=""><b>Psychedelia</b><img class="a" src="/img/techriz.jpg" alt="TechRiz"></div></header>
+<main class="wrap"><div class="glow hero"><img class="banner" src="/img/banner.jpg" alt="If not at Psychedelia then where?"></div><div id="app"></div></main>
+<footer><div class="wrap"><div class="f1"><div class="fb"><div class="row"><img src="/img/logo.jpg" alt=""><span>Psychedelia</span></div><p>Interactive quizzes built around TechRiz’s YouTube lessons. Watch, test yourself, and rewatch until the concepts stick.</p></div><div class="fs"><h4>Follow TechRiz</h4><div class="soc"><a href="https://x.com/Techriztm" target="_blank" rel="noopener" style="--c:#ffffff" aria-label="TechRiz on X"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>X</a><a href="https://t.me/Techriztm" target="_blank" rel="noopener" style="--c:#29A9EB" aria-label="TechRiz on Telegram"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9.78 18.65l.28-4.23 7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3 3.64 12c-.88-.25-.89-.86.2-1.3l15.97-6.16c.73-.33 1.43.18 1.15 1.3l-2.72 12.81c-.19.91-.74 1.13-1.5.71L12.6 16.3l-1.99 1.93c-.23.23-.42.42-.83.42z"/></svg>Telegram</a><a href="https://www.youtube.com/@Techriztm" target="_blank" rel="noopener" style="--c:#FF4040" aria-label="TechRiz on YouTube"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1c.5-1.9.5-5.8.5-5.8s0-3.9-.5-5.8zM9.6 15.6V8.4l6.2 3.6-6.2 3.6z"/></svg>YouTube</a></div></div></div><div class="disc"><b>Disclaimer.</b> Psychedelia Academy is for educational purposes only. The quizzes test your understanding of publicly available video lessons and do not constitute financial advice, trading signals or investment recommendations. Trading forex and other leveraged products carries a high level of risk and you may lose some or all of your capital. Past performance does not guarantee future results. Always do your own research and consult a licensed adviser before making financial decisions.</div><div class="cp"><span>© 2026 Psychedelia. All rights reserved.</span><span>Video content belongs to its creator. Not affiliated with or endorsed by YouTube.</span></div></div></footer>
+<script>
+const $=s=>document.querySelector(s),app=$('#app');
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const store={get:(k,d)=>{try{const v=JSON.parse(localStorage.getItem(k));return v??d}catch{return d}},set:(k,v)=>{try{localStorage.setItem(k,JSON.stringify(v))}catch{}}};
+const yt=id=>'https://www.youtube.com/watch?v='+encodeURIComponent(id);
+let quizzes=[],cur,idx,answers;
+async function init(){try{quizzes=await(await fetch('/api/quizzes')).json();home()}catch{app.innerHTML='<p class="empty">Can’t reach the server. Run <code>npm start</code> in the project folder, then reload.</p>'}}
+function live(){return quizzes.filter(q=>!q.comingSoon)}
+function overall(){const b=store.get('best',{}),l=live();return l.length?Math.round(l.reduce((a,q)=>a+(b[q.id]||0),0)/l.length):0}
+function home(){
+  const b=store.get('best',{}),done=live().filter(q=>q.id in b).length,name=store.get('name','');
+  const nameBlock=name?`<div class="hi"><span class="em" aria-hidden="true">🎉</span><div><div class="hi-t">Welcome ${esc(name)}</div><p>Pick a lesson below and show what you know.</p></div></div>`:`<div class="join"><div class="hi-t">👋 Welcome! What should we call you?</div><form class="nm" id="nmf"><input id="nm" maxlength="40" placeholder="Enter your name" aria-label="Your name"><button class="done" type="submit">Done</button></form></div>`;
+  app.innerHTML=`<section class="intro"><h1>Watch the lesson. <span class="gr">Prove you got it.</span></h1><p class="sub">Each quiz tests the concepts TechRiz teaches in one video. <b class="o">Answers aren’t shown</b>, so <b class="c">rewatch the video</b> to learn what you missed.</p></section>
+  <div class="bar glow">${nameBlock}<div class="overall"><b>${done?overall()+'%':'–'}</b><span>Overall score, ${done} of ${live().length} ${live().length===1?'quiz':'quizzes'} done</span></div></div>
+  <div class="grid">${quizzes.map((q,i)=>{const soon=q.comingSoon,th=q.thumbnail||'',bg=!soon&&q.youtubeId?`url(https://i.ytimg.com/vi/${encodeURIComponent(q.youtubeId)}/maxresdefault.jpg)${th?`,url(${esc(th)})`:''}`:th?`url(${esc(th)})`:'',tag=soon||!q.youtubeId?'div':'a',at=soon||!q.youtubeId?'':` href="${yt(q.youtubeId)}" target="_blank" rel="noopener" aria-label="Watch ${esc(q.title)} on YouTube"`;return `<article class="card glow${soon?' soon':''}"><${tag} class="thumb"${at}${bg?` style="background-image:${bg}"`:''}>${soon?'<span class="soonl">Coming soon</span>':`${q.youtubeId?'<span class="play" aria-hidden="true"></span>':''}<span class="chip q">${q.questions.length} questions</span>`}</${tag}><div class="cb"><h3>${esc(q.title)}</h3><p>${soon?'This lesson is on its way.':q.id in b?'Best score '+b[q.id]+'%':'Not attempted yet'}</p><button class="btn" data-id="${esc(q.id)}"${soon?' disabled':''}>${soon?'Coming soon':q.id in b?'Retake quiz':'Start quiz'}</button></div></article>`}).join('')}</div>`;
+  const f=$('#nmf');if(f)f.onsubmit=e=>{e.preventDefault();const v=$('#nm').value.trim();if(v){store.set('name',v);home()}};
+  app.querySelectorAll('[data-id]').forEach(el=>el.onclick=()=>{cur=quizzes.find(q=>q.id===el.dataset.id);idx=0;answers=cur.questions.map(()=>null);ask()});
+}
+function ask(){
+  const q=cur.questions[idx],n=cur.questions.length,last=idx===n-1;
+  app.innerHTML=`<div class="qwrap"><div class="top"><button class="link" id="x">Exit quiz</button>${cur.youtubeId?`<a class="link" target="_blank" rel="noopener" href="${yt(cur.youtubeId)}">Open video</a>`:'<span></span>'}</div>
+  <h2>${esc(cur.title)}</h2><div class="prog"><i style="width:${Math.round(idx/n*100)}%"></i></div><p class="count">Question ${idx+1} of ${n}</p>
+  <h3 class="q">${esc(q.text)}</h3><div class="opts">${q.options.map((o,i)=>`<button class="opt${answers[idx]===i?' on':''}" data-i="${i}"><span>${'ABCDEF'[i]}</span>${esc(o)}</button>`).join('')}</div>
+  <div class="nav"><button class="btn ghost" id="bk" ${idx?'':'disabled'}>Back</button><button class="btn" id="nx" ${answers[idx]===null?'disabled':''}>${last?'Submit answers':'Next question'}</button></div></div>`;
+  app.querySelectorAll('.opt').forEach(el=>el.onclick=()=>{answers[idx]=+el.dataset.i;ask()});
+  $('#x').onclick=()=>confirm('Leave this quiz? Your answers will be lost.')&&home();
+  $('#bk').onclick=()=>{idx--;ask()};
+  $('#nx').onclick=()=>last?submit():(idx++,ask());
+}
+async function submit(){
+  $('#nx').disabled=true;$('#nx').textContent='Scoring…';
+  try{
+    const r=await(await fetch('/api/submit',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({quizId:cur.id,name:store.get('name',''),answers})})).json();
+    if(r.error)throw 0;
+    const b=store.get('best',{});b[cur.id]=Math.max(b[cur.id]||0,r.percent);store.set('best',b);result(r);
+  }catch{alert('Could not submit. Check the server is running and try again.');ask()}
+}
+function result(r){
+  const t=r.percent>=80?'Strong grasp of this lesson':r.percent>=50?'Getting there. Rewatch to lock it in':'Rewatch the video, then try again';
+  app.innerHTML=`<div class="res"><h2>${esc(cur.title)}</h2><div class="ring" style="background:conic-gradient(var(--cyan) ${r.percent}%,var(--line) 0)"><div>${r.percent}%</div></div>
+  <h3>${r.correct} of ${r.total} correct</h3><p class="count">${t}. Your overall score is now ${overall()}%.</p>
+  <p>${cur.youtubeId?`<a class="btn or" target="_blank" rel="noopener" href="${yt(cur.youtubeId)}">Rewatch the video</a>`:''}<button class="btn ghost" id="rt">Retake quiz</button><button class="btn ghost" id="hm">All quizzes</button></p></div>`;
+  $('#rt').onclick=()=>{idx=0;answers=cur.questions.map(()=>null);ask()};$('#hm').onclick=home;
+}
+init();
+</script></body></html>

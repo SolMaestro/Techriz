@@ -1,0 +1,1191 @@
+[
+ {
+  "id": "supply-and-demand",
+  "title": "Supply and Demand",
+  "youtubeId": "fwJiq3I7p7U",
+  "thumbnail": "/img/lesson1.jpg",
+  "questions": [
+   {
+    "text": "According to Techriz, what is the primary function of a demand level?",
+    "options": [
+     "To sponsor price movement downward and prevent further upward movement.",
+     "To sponsor price movement upward and prevent further downward movement.",
+     "To identify every order block within a market structure.",
+     "To ensure price retraces to the equilibrium level before every move."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "Which statement best describes a supply level in the lesson?",
+    "options": [
+     "A level that supports price from moving further downward and encourages bullish continuation.",
+     "A level that represents only the last bullish candle before a bearish break of structure.",
+     "A level that prevents further upward movement and sponsors price movement downward.",
+     "A level that must always be completely mitigated before price can fall."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "How does Techriz distinguish demand and supply from points of interest (POIs)?",
+    "options": [
+     "Demand and supply are individual candles, while POIs are entire market trends.",
+     "Demand and supply describe broader zones, while POIs are specific areas or formations within those zones.",
+     "Demand and supply are used only in uptrends, while POIs are used only in downtrends.",
+     "Demand and supply and POIs mean exactly the same thing."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "According to Techriz, which market conditions are associated with the formation of demand and supply?",
+    "options": [
+     "Demand forms in a downtrend, while supply forms in an uptrend.",
+     "Both demand and supply form exclusively during sideways markets.",
+     "Demand and supply form only after an equilibrium retracement.",
+     "Demand forms in an uptrend, while supply forms in a downtrend."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "In the lesson, what market behaviour indicates that demand is being formed?",
+    "options": [
+     "Price makes impulsive moves upward, rejects lower lows, and breaks new highs.",
+     "Price repeatedly breaks new lows while rejecting old highs.",
+     "Price remains within a narrow range without breaking structure.",
+     "Price retraces below equilibrium without any bullish movement."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "According to Techriz, how is the full demand zone identified following an upward break?",
+    "options": [
+     "It consists exclusively of the last bearish candle before the break.",
+     "It begins at the equilibrium midline and ends at the discount level.",
+     "It spans from the highest point before the break to the lowest point after the break.",
+     "It includes only the fair value gap created by the break."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "What does Techriz identify as the full supply zone following a bearish structural move?",
+    "options": [
+     "Only the last bullish candle before price moves downward.",
+     "The entire zone extending from point A to point B in the described bearish move.",
+     "Only the area below the equilibrium midline.",
+     "The nearest unmitigated bullish order block."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "Which combination contains the two primary points of interest Techriz says he uses for trading in this lesson?",
+    "options": [
+     "Rejection blocks and breaker blocks.",
+     "Equilibrium levels and inducement levels.",
+     "Internal range liquidity and change in state of delivery.",
+     "Order blocks and fair value gaps."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "Which of the following lists contains POIs that Techriz mentions can exist inside demand or supply zones?",
+    "options": [
+     "Order blocks, fair value gaps, rejection blocks, and breaker blocks.",
+     "Trendlines, moving averages, RSI, and MACD.",
+     "Support levels, resistance levels, moving averages, and trend channels.",
+     "Point A, point B, equilibrium, and discount levels only."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "What does the equilibrium pricing rule described by Techriz suggest after price breaks above a level to establish demand?",
+    "options": [
+     "Price must immediately continue upward without retracing.",
+     "Price must return to the exact origin of the move before continuing.",
+     "Price should retrace into the demand zone at least to equilibrium before pushing upward, according to the rule.",
+     "Price must first break below the demand zone before a buy can be considered."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "Which tools does Techriz mention for identifying the equilibrium level within a demand or supply zone?",
+    "options": [
+     "The RSI and MACD indicators.",
+     "The Fibonacci retracement tool and the Gann box.",
+     "The volume profile and moving averages.",
+     "The trendline tool and stochastic oscillator."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "In Techriz’s explanation of bullish equilibrium pricing, which part of the demand zone is described as the most premium area to look for a potential buy?",
+    "options": [
+     "The area above the highest point of the demand zone.",
+     "The area above the equilibrium midline, toward the highest point.",
+     "The exact point where price first breaks structure, regardless of its location.",
+     "The area from the equilibrium midline down to the discount level."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "According to Techriz, what is mitigation when discussing a point of interest such as an order block?",
+    "options": [
+     "Price enters or taps the point of interest, uses it, and moves away, exhausting that area.",
+     "Price breaks a previous high or low to confirm a new trend.",
+     "Price reaches the equilibrium midline for the first time.",
+     "Price forms a new fair value gap without returning to it."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "What does Techriz say can happen when price revisits an order block that has already been mitigated?",
+    "options": [
+     "It must reverse immediately because the order block remains fresh.",
+     "It automatically creates a new demand zone.",
+     "It may be treated as liquidity and used to induce price before moving upward, rather than serving as a fresh point of interest.",
+     "It invalidates every equilibrium level in the surrounding market."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "According to Techriz, what condition can invalidate the expectation of price respecting the equilibrium/discount area as described in the lesson?",
+    "options": [
+     "The market has formed a new high or low.",
+     "There are no unmitigated points of interest remaining in the relevant zone.",
+     "Price has touched the equilibrium midline once.",
+     "The zone contains both demand and supply."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "What does Techriz mean when he says the entire demand zone can be fulfilled even if price has not mitigated an order block inside it?",
+    "options": [
+     "The demand zone is valid only when every order block has been touched.",
+     "Price can tap the broader demand zone and move upward without reaching a specific POI inside it.",
+     "The demand zone becomes supply as soon as price moves upward.",
+     "Price must always reach the discount level before a demand zone can be fulfilled."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "According to Techriz, what is the role of internal range liquidity in the bearish supply-zone example?",
+    "options": [
+     "It guarantees that price will reverse immediately upon entering supply.",
+     "It identifies the exact equilibrium midline within the supply zone.",
+     "It is what price seeks within the supply zone before a change in state of delivery (CISD) and a subsequent upward move.",
+     "It replaces the need to identify supply zones."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "In the bearish equilibrium pricing example, what does Techriz say traders should look for before expecting price to move downward?",
+    "options": [
+     "Price should enter the supply area above the equilibrium midline, show a change in state of delivery (CISD), and then move downward.",
+     "Price must first break above the entire supply zone and establish a new uptrend.",
+     "Price should enter the demand zone below equilibrium and form a bullish order block.",
+     "Price must completely mitigate every supply POI before moving downward."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "How does Techriz describe the relationship between a point of interest and the broader demand or supply zone?",
+    "options": [
+     "A POI must always occupy the entire demand or supply zone.",
+     "A POI is valid only when it lies outside the demand or supply zone.",
+     "A demand or supply zone can contain only one POI at a time.",
+     "Multiple POIs, such as order blocks and fair value gaps, can exist within the broader demand or supply zone."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "Which topic does Techriz identify as the focus of the follow-up lessons after introducing demand and supply?",
+    "options": [
+     "Risk management, trading psychology, and account management.",
+     "Points of interest, including order blocks, bullish and bearish order blocks, fair value gaps, and breaker blocks.",
+     "Fundamental analysis, economic news, and interest rates.",
+     "Liquidity sweeps, trade journaling, and position sizing."
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "orderblocks-techriz-ob",
+  "title": "Orderblocks (Techriz OB)",
+  "youtubeId": "j9ulobqyWpU",
+  "thumbnail": "/img/lesson2.jpg",
+  "questions": [
+   {
+    "text": "What does Techriz say should guide a trader’s bias when identifying and trading this order block pattern?",
+    "options": [
+     "The number of candles in the pattern.",
+     "The market structure and the direction of price.",
+     "The size of the previous candle’s body alone.",
+     "The timeframe on which the pattern first appears."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "On which timeframes does Techriz recommend primarily considering this order block pattern to reduce market noise?",
+    "options": [
+     "Only the M1 and M5 timeframes.",
+     "Only the M15 timeframe.",
+     "Typically H4 and above, while noting that H1 and above can also be considered.",
+     "Exclusively the daily timeframe, with no exceptions."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "According to Techriz, what candlestick pattern appears before the next candle engulfs it in this particular order block setup?",
+    "options": [
+     "A green inverse pin bar, also described as an inverse hammer.",
+     "A bearish engulfing candle followed by a doji.",
+     "A bullish hammer followed by a smaller bearish candle.",
+     "Two consecutive candles with identical bodies."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "What does the upper wick of the inverse pin bar indicate in Techriz’s explanation?",
+    "options": [
+     "Buyers have maintained complete control throughout the candle.",
+     "Price has successfully broken above the previous high.",
+     "The candle has no directional significance.",
+     "Sellers have pushed price down from its high, showing rejection of buying pressure."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "What makes this particular order block pattern different from the bearish interpretation someone might initially give to the inverse pin bar?",
+    "options": [
+     "The inverse pin bar must always be followed by a doji.",
+     "The next candle engulfs the rejection candle, showing that buyers have regained strength.",
+     "The next candle must close below the rejection candle’s low.",
+     "Price must immediately reverse downward after the inverse pin bar forms."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "According to Techriz, what is the significance of the next candle completely engulfing the inverse pin bar?",
+    "options": [
+     "It confirms that the market must continue selling.",
+     "It proves that every nearby supply zone has been invalidated.",
+     "It indicates that buyers have regained strength and closed above the rejection wick.",
+     "It means the market has entered a sideways range."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "In the bullish setup described by Techriz, where does he identify the potential entry area?",
+    "options": [
+     "Anywhere within the rejection wick of the inverse pin bar.",
+     "Only at the close of the candle that created the original rejection.",
+     "At the previous swing low, regardless of the pattern’s location.",
+     "Only after price has moved completely beyond the entire pattern and never returned."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "Where does Techriz typically place the stop loss for the bullish order block setup?",
+    "options": [
+     "Above the high of the engulfing candle.",
+     "At the equilibrium midpoint of the entire trend.",
+     "Exactly at the entry price.",
+     "Below the identified pattern’s low."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "What does Techriz recommend considering before treating this order block as a strong trading opportunity?",
+    "options": [
+     "Whether the pattern appears on every timeframe simultaneously.",
+     "Whether the pattern aligns with the market’s structure and the trader’s bias.",
+     "Whether the previous candle has a larger body than every candle nearby.",
+     "Whether price has already reached the final target."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "According to Techriz, what can a trader do instead of entering the setup immediately without additional confirmation?",
+    "options": [
+     "Ignore the order block and enter in the opposite direction.",
+     "Move the stop loss to the entry price before entering the trade.",
+     "Wait for confirmation within the order block area before taking the trade.",
+     "Switch to a lower timeframe and disregard the broader market structure."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "In Techriz’s gold example, what happened when price returned to the area containing the fair value gap and the identified order block?",
+    "options": [
+     "Price immediately broke downward and continued selling.",
+     "Price remained inside the area without making a significant move.",
+     "Price invalidated the entire bullish market structure.",
+     "Price entered the area, formed the inverse pin bar pattern, and the next candle closed above it before the subsequent bullish move."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "Why does Techriz consider the order block in his gold example significant?",
+    "options": [
+     "It was the last point of contact before a substantial breakout and upward movement.",
+     "It was the first candle of the entire trading session.",
+     "It formed after price had already completed the entire upward move.",
+     "It appeared without any relationship to a fair value gap or market structure."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "In the gold example, what happened before the inverse pin bar appeared at the identified area?",
+    "options": [
+     "Price broke above the entire supply zone and never retraced.",
+     "Price took liquidity and mitigated the identified support level.",
+     "Price formed a new low without interacting with any previous level.",
+     "Price moved directly to its target without revisiting a point of interest."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "According to Techriz, why might traders initially misinterpret the inverse pin bar at a support or point-of-interest area?",
+    "options": [
+     "They assume every inverse pin bar signals an immediate bullish reversal.",
+     "They believe the candle has no relationship to buying or selling pressure.",
+     "They may interpret the rejection wick as evidence that selling will continue, before the subsequent candle shows strong buying pressure.",
+     "They assume the pattern can occur only in a sideways market."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "What does Techriz say can make the identified entry more precise than entering at a more obvious nearby level?",
+    "options": [
+     "Using the order block area can provide a tighter risk-to-reward ratio.",
+     "Increasing the stop loss until it covers the entire trading session.",
+     "Entering before the rejection candle has closed.",
+     "Ignoring the location of the stop loss when calculating risk."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "In Techriz’s explanation, what can a break of structure after price bounces from a point of interest indicate?",
+    "options": [
+     "That the market must reverse in the opposite direction.",
+     "That the point of interest can no longer be used.",
+     "That price will remain within the same range indefinitely.",
+     "It can serve as confirmation that price may continue moving in the direction of the bounce."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "Which statement best reflects Techriz’s explanation of old lows and liquidity in his USD/JPY example?",
+    "options": [
+     "Old lows cannot act as liquidity pools once price has moved away from them.",
+     "Old lows can serve as liquidity pools, and price taking an old low can precede the order block pattern he describes.",
+     "Old lows are always the correct entry for every bullish order block.",
+     "Taking an old low automatically confirms that the market will continue downward."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "What does Techriz demonstrate with his USD/JPY examples?",
+    "options": [
+     "The pattern works only on gold and should not be considered on other instruments.",
+     "The pattern is useful only when price moves downward.",
+     "The pattern can occur on USD/JPY as well, where strong buying can overcome a candle that initially appears bearish.",
+     "The pattern works only when there is no fair value gap nearby."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "What does Techriz say about the order block pattern when it appears on the daily timeframe and supports an upward move?",
+    "options": [
+     "It may support a substantial upward continuation, with price potentially providing further opportunities to enter as it rises.",
+     "It should always be traded against the existing market structure.",
+     "It is less significant than the same pattern on every lower timeframe.",
+     "It guarantees that price will rise continuously without any retracement."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "Which statement correctly summarizes Techriz’s position on the direction in which this order block pattern can be used?",
+    "options": [
+     "It is strictly a bullish pattern and cannot be applied to selling.",
+     "It can be used only when gold is trending upward.",
+     "It is valid only on the daily timeframe and only for buy entries.",
+     "The pattern can also be applied to sell trades, not just buy trades."
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ {
+  "id": "high-probability-fvgs",
+  "title": "High Probability FVGs",
+  "youtubeId": "V-dfd6I6uyQ",
+  "thumbnail": "/img/lesson3.jpg",
+  "questions": [
+   {
+    "text": "What does FVG stand for, according to Techriz?",
+    "options": [
+     "Fair Volume Gradient",
+     "Fair Value Gap",
+     "Fixed Value Guide",
+     "Future Volume Gap"
+    ],
+    "answer": 1
+   },
+   {
+    "text": "According to Techriz, how many candles make up a fair value gap?",
+    "options": [
+     "Two candles",
+     "Four candles",
+     "Three candles",
+     "Five candles"
+    ],
+    "answer": 2
+   },
+   {
+    "text": "When identifying a fair value gap using the three-candle model, which area does Techriz emphasize?",
+    "options": [
+     "The space between the wicks of the first and third candles.",
+     "The distance between the opening prices of the first and second candles.",
+     "The body of the middle candle alone.",
+     "The distance between the closing prices of the second and third candles."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "How does Techriz describe the market condition represented by a fair value gap?",
+    "options": [
+     "A period in which price remains completely balanced.",
+     "A zone where price must reverse immediately.",
+     "A formation that occurs only when the market is moving sideways.",
+     "An imbalance in price action involving the three-candle formation."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "Why does Techriz describe fair value gaps as “price magnets”?",
+    "options": [
+     "They prevent price from making new highs or lows.",
+     "They represent imbalances that price may return to so the inefficient price action can be rebalanced.",
+     "They guarantee a reversal whenever price reaches them.",
+     "They eliminate the need to identify other points of interest."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "Which two types of price action does Techriz say the market continually moves between?",
+    "options": [
+     "Bullish and bearish candlesticks only.",
+     "Breakouts and stop losses.",
+     "Balanced or efficient price action, and the rebalancing of inefficient price action.",
+     "Support and resistance without any imbalances."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "Which role does Techriz assign to fair value gaps in a continuation setup?",
+    "options": [
+     "They can provide areas from which price continues in the established direction.",
+     "They must always reverse the existing trend.",
+     "They replace the need to identify the prevailing trend.",
+     "They guarantee that price will return to the original order block."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "According to Techriz, how can a fair value gap help when evaluating a reversal order block?",
+    "options": [
+     "It automatically invalidates every order block nearby.",
+     "It confirms a reversal regardless of the surrounding price action.",
+     "It means the trader no longer needs confirmation.",
+     "It can help validate the order block as part of the reversal setup."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "In Techriz’s explanation, what can make a setup involving an unmitigated point of interest more compelling?",
+    "options": [
+     "Having no identifiable liquidity near the point of interest.",
+     "Having a fair value gap close to the unmitigated point of interest, alongside the other elements of the setup.",
+     "Entering before the point of interest has been reached.",
+     "Ignoring the market structure and relying only on the fair value gap."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "What does Techriz say about using a fair value gap as a trading opportunity without knowing how to identify it on a chart?",
+    "options": [
+     "A trader can always identify it by looking at the candle colours alone.",
+     "Drawing the formation is unnecessary, even without an indicator.",
+     "A trader needs to understand how to identify or draw the fair value gap to trade it properly.",
+     "Fair value gaps can be traded only when a broker identifies them."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "According to Techriz, what happens when a candle’s wick penetrates more than 50% of the relevant candle’s range in the example he discusses?",
+    "options": [
+     "The formation automatically becomes a weekly fair value gap.",
+     "The formation becomes a confirmed reversal setup.",
+     "The fair value gap becomes stronger because price has penetrated further into it.",
+     "It fails the FVG condition he describes, and he identifies the area as another block instead."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "What does Techriz recommend doing with fair value gaps when the market is in a retracement profile, rather than a continuation profile?",
+    "options": [
+     "Ignore the fair value gaps in that retracement profile, according to his explanation.",
+     "Trade every fair value gap in the direction of the retracement.",
+     "Use fair value gaps as the only confirmation for entry.",
+     "Assume every retracement will immediately reverse."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "In the continuation example, what did price do when it reached the fair value gap?",
+    "options": [
+     "It broke through the zone and continued downward without reacting.",
+     "It ignored the fair value gap and returned to the previous order block.",
+     "It entered the fair value gap and rejected upward, continuing the move.",
+     "It remained inside the fair value gap until the trend ended."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "What does Techriz say about price continuing to move after a trend shift and confirmation have been established?",
+    "options": [
+     "Price must return to the original order block for every continuation.",
+     "Price can continue to buy from fair value gaps as the established bullish move progresses.",
+     "Price can no longer react to fair value gaps once a shift occurs.",
+     "Every fair value gap formed after a shift should be treated as a reversal."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "What does Techriz recommend when the three candles in a potential fair value gap do not have the wicks needed for the formation he describes?",
+    "options": [
+     "Treat the formation as a valid fair value gap regardless.",
+     "Use the middle candle’s body as a substitute for the missing wicks.",
+     "Enter immediately if the candles are moving in the same direction.",
+     "Ignore that potential fair value gap."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "According to Techriz, which timeframes does he recommend primarily considering when trading fair value gaps?",
+    "options": [
+     "M30 and above, or H1 and above.",
+     "M1 and M5 only.",
+     "M5 and M15 exclusively.",
+     "Only the monthly timeframe."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "How does Techriz describe the role of a fair value gap on the weekly timeframe?",
+    "options": [
+     "It can be used only for continuation, never reversal.",
+     "It must be ignored because weekly charts contain too much information.",
+     "It has the potential to cause a reversal in price.",
+     "It automatically confirms a reversal without any further steps."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "What does Techriz insist traders should do when price reaches a fair value gap that appears relevant to their setup?",
+    "options": [
+     "Enter immediately because price has reached the zone.",
+     "Wait for additional confirmation before entering the trade.",
+     "Remove the fair value gap from the chart.",
+     "Move the stop loss to the opposite side of the entire trend."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "Why does Techriz move from a higher timeframe to lower timeframes when examining a trading opportunity?",
+    "options": [
+     "To replace the higher-timeframe market structure entirely.",
+     "To find more indicators to place on the chart.",
+     "To make every entry depend on the M1 timeframe.",
+     "To refine the entry and identify a more precise area where price reacted."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "Which sequence best reflects Techriz’s approach when he cannot find the information or confirmation he needs on a higher timeframe?",
+    "options": [
+     "Step down through timeframes, such as from the daily to H4 and then H1, until the setup can be assessed more clearly.",
+     "Abandon the higher-timeframe analysis and enter immediately.",
+     "Switch exclusively to M5 and ignore all other timeframes.",
+     "Increase the stop loss until the trade becomes valid."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "In Techriz’s example involving a higher-timeframe demand zone, what did his lower-timeframe analysis help him identify?",
+    "options": [
+     "A reason to discard the demand zone completely.",
+     "A guarantee that price would never retrace again.",
+     "A more precise order block within the broader area where price had reacted.",
+     "A reason to enter without considering the stop loss."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "What does Techriz say about fair value gaps that have already been mitigated?",
+    "options": [
+     "They should be used repeatedly for every subsequent entry.",
+     "They should no longer be used once they have been mitigated.",
+     "They automatically become valid reversal order blocks.",
+     "They must always be redrawn on the same timeframe."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "In Techriz’s gold example, what does he observe about many of the continuation moves during the strong bullish movement?",
+    "options": [
+     "They all begin at the same daily order block.",
+     "They occur only after price returns to the bottom of the entire range.",
+     "They consistently require price to revisit every previous order block.",
+     "Many of the continuation moves react from fair value gaps rather than returning to the previous order blocks."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "When explaining how to place orders around a fair value gap, what does Techriz say about stop-loss placement in relation to a nearby order block?",
+    "options": [
+     "The stop loss can be placed below the order block or below the fair value gap, depending on the setup he describes.",
+     "The stop loss must always be placed above the fair value gap.",
+     "The stop loss must be placed exactly at the fair value gap’s midpoint.",
+     "The stop loss is unnecessary when price enters a fair value gap."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "What does Techriz recommend using a fair value gap indicator for, in addition to making the formations easier to identify?",
+    "options": [
+     "Predicting every market reversal without further analysis.",
+     "Replacing the need to understand order blocks and market structure.",
+     "Helping identify fair value gaps across timeframes and validating a point of interest when the surrounding setup supports it.",
+     "Automatically opening and closing trades without trader confirmation."
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "quasimodo-patterns-entries",
+  "title": "QUASIMODO Patterns (Entries)",
+  "youtubeId": "dCHvZ0lmuwA",
+  "thumbnail": "/img/lesson4.jpg",
+  "questions": [
+   {
+    "text": "What does Techriz say is the logic behind a Quasimodo pattern?",
+    "options": [
+     "Price forms a perfect head and shoulders at every high.",
+     "Price follows textbook higher highs and higher lows with no sweeps.",
+     "A valid block is taken out, price reclaims that zone, and price then returns to use that block.",
+     "Price breaks a trendline and never comes back to it."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "According to Techriz, what does it mean for price to “reclaim” a level?",
+    "options": [
+     "Price climbs back above the level and closes above it.",
+     "Price touches the level with a wick only.",
+     "Price moves sideways beneath the level for several candles.",
+     "Price breaks the level and keeps going without returning."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "Techriz says people call this pattern many names. Which name does he call the general one?",
+    "options": [
+     "Turtle soup",
+     "Engineered liquidity",
+     "Breakout block",
+     "Reclaim block"
+    ],
+    "answer": 3
+   },
+   {
+    "text": "How does Techriz describe a reclaim block in the simplest terms?",
+    "options": [
+     "A block formed for the first time after a break of structure.",
+     "A block that was previously violated, which price then came back to reclaim.",
+     "A block that price has never touched.",
+     "A fair value gap formed by three candles."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "What is the difference between a QMR and a QMC, according to Techriz?",
+    "options": [
+     "QMR is used only on lower timeframes, while QMC is used only on higher timeframes.",
+     "QMR is used only for buys, while QMC is used only for sells.",
+     "QMR is a reclaim block at a point of reversal, while QMC is a reclaim block on a continuation leg.",
+     "QMR needs a fair value gap, while QMC does not."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "What does Techriz say a QMC is a great way to do when you are confident a trade will reach its potential high or low?",
+    "options": [
+     "Add more positions to maximize the trade.",
+     "Close the whole trade early.",
+     "Reverse the position at once.",
+     "Remove the stop loss."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "Why does Techriz tell traders to delete the textbook picture of how price moves?",
+    "options": [
+     "Because higher highs and higher lows no longer exist.",
+     "Because the market does not react in that smooth way, and price sweeps levels before reaching new ground.",
+     "Because only lower timeframes matter.",
+     "Because indicators have replaced market structure."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "What does Techriz say price must do before it goes to the new side?",
+    "options": [
+     "Form a fair value gap on every timeframe.",
+     "Retrace to the equilibrium of the whole range.",
+     "Close beyond the previous high without retracing.",
+     "Take some form of liquidity, such as sweeping a level."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "According to Techriz, what most times happens to a trader’s first entry at an obvious reversal point?",
+    "options": [
+     "It gets swept, like engineered liquidity, before price reclaims the level.",
+     "It runs straight to target without any pullback.",
+     "It never gets touched again.",
+     "It is valid only on the weekly timeframe."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "What does Techriz say it tells a trader when price reclaims the level after stopping them out?",
+    "options": [
+     "The trade idea is invalid and should be abandoned.",
+     "The trader should flip direction immediately.",
+     "The original directional bias is still correct, so they can look for their earlier entry or a higher-timeframe entry.",
+     "The trader should wait for a new market structure to form on the weekly timeframe."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "What does Techriz say price tends to do at highs that still have liquidity on them before a reversal?",
+    "options": [
+     "It never touches those highs.",
+     "It takes the liquidity off the high, then retraces back and closes inside.",
+     "It breaks above and stays above permanently.",
+     "It stays flat until the next session."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "What does Techriz say about the timeframes on which this pattern can be found?",
+    "options": [
+     "Only on the one-minute timeframe.",
+     "Only on the daily timeframe.",
+     "Only on the H4 timeframe.",
+     "It is not timeframe specific; the trader just needs to understand the trend and flow with it."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "In Techriz’s one-day chart example, what happens after the traders who sold on the change in state of delivery (CSD) get stopped out?",
+    "options": [
+     "Price reclaims the level, then returns to the same area and drops, which he calls a Quasimodo reversal.",
+     "Price continues upward without ever returning.",
+     "Price forms a double top and ranges for weeks.",
+     "Price creates a new fair value gap and the trend ends."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "Where does Techriz say the major invalidation point (stop loss) is best placed in the one-day sell example?",
+    "options": [
+     "Right below the reclaim block, because it gives the biggest reward.",
+     "At the entry price.",
+     "Above the high, since placing it tighter is not recommended even though it would show a bigger reward.",
+     "Beyond the external low."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "Why does Techriz say a trader who picked the fair value gap in his higher-timeframe bullish example would have missed the entry?",
+    "options": [
+     "Because fair value gaps never form after a sweep.",
+     "Because price used the reclaim block instead, and only that block guaranteed getting the entry.",
+     "Because price never retraced at all.",
+     "Because the fair value gap formed on the weekly timeframe."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "Why does Techriz say holding the one-day timeframe examples is demanding?",
+    "options": [
+     "Because spreads widen overnight.",
+     "Because they need constant lower-timeframe monitoring.",
+     "Because the pattern repeats every hour.",
+     "Because each candle is a day, so the trader may sit on the trade for a very long time."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "In Techriz’s H4 example, why did many traders miss the entry?",
+    "options": [
+     "They expected price to return to the bullish engulfing candle, but price bounced from the reclaimed block instead.",
+     "They entered before the low was swept.",
+     "They ignored the sweep of the low.",
+     "Their stop loss was too wide."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "Where does Techriz stress that these patterns happen?",
+    "options": [
+     "In the middle of ranging markets.",
+     "At points of reversal.",
+     "Only after news releases.",
+     "Only at the weekly open."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "In Techriz’s sell example, what targets does he describe?",
+    "options": [
+     "A single target at the equilibrium of the range.",
+     "The first target is the nearby highs, and the last target is the external high.",
+     "The first target is the nearby lows, and the last target is the external low.",
+     "No targets, because the trade is held without a plan."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "How does Techriz suggest using timeframes to reduce risk when trading these patterns?",
+    "options": [
+     "Trade only on the one-minute chart.",
+     "Ignore higher timeframes completely.",
+     "Always wait for the weekly candle to close before acting.",
+     "Find them on higher timeframes where reversals are expected, then drop to lower timeframes for confirmation."
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ {
+  "id": "market-structure-complete-guide",
+  "title": "Market Structure (Complete Guide)",
+  "youtubeId": "E3qXrmpmRQg",
+  "thumbnail": "/img/lesson5.jpg",
+  "questions": [
+   {
+    "text": "According to Techriz, what is the key thing that decides the direction of price?",
+    "options": [
+     "Candlestick colour",
+     "Market structure",
+     "The news calendar",
+     "The trading session"
+    ],
+    "answer": 1
+   },
+   {
+    "text": "What does Techriz say about a trader who does not know the direction of price?",
+    "options": [
+     "They can rely on indicators alone to win.",
+     "They only need a tight stop loss to win.",
+     "They will win on lower timeframes only.",
+     "They cannot have any winning trade."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "How does Techriz define market structure?",
+    "options": [
+     "What is happening on a zoomed-out perspective of the chart, describing the behaviour of price.",
+     "The pattern made by the body and wick of a single candlestick.",
+     "The exact order blocks inside each candle.",
+     "The news events that move price."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "Which three things does Techriz say we talk about under market structure?",
+    "options": [
+     "Candles, wicks, and bodies",
+     "Support, resistance, and indicators",
+     "Trends, profiles, and shifts",
+     "Highs, lows, and ranges"
+    ],
+    "answer": 2
+   },
+   {
+    "text": "How does Techriz define a trend?",
+    "options": [
+     "The speed at which candles form.",
+     "The direction the market is currently moving in.",
+     "The distance between a high and a low.",
+     "A zone where price always reverses."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "What does an uptrend create, according to Techriz?",
+    "options": [
+     "Higher highs and higher lows",
+     "Lower highs and lower lows",
+     "Equal highs and equal lows",
+     "Highs only, with no lows"
+    ],
+    "answer": 0
+   },
+   {
+    "text": "How does Techriz describe a downtrend?",
+    "options": [
+     "Higher highs that keep forming.",
+     "A range with no direction.",
+     "One low followed by a long consolidation.",
+     "Lower lows and lower highs, each below the previous one."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "How does Techriz describe a ranging market?",
+    "options": [
+     "It makes higher highs and higher lows.",
+     "It moves down with lower lows.",
+     "It moves sideways, also called consolidation or accumulation, without higher highs and lows or lower lows and highs.",
+     "It breaks out in a straight line."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "What rule does Techriz give for sustaining an uptrend?",
+    "options": [
+     "A high must form a low above the previous high.",
+     "A low forms a new high above the previous one, and a high forms a low that does not go below the previous low.",
+     "A low must break below the previous low every time.",
+     "Highs and lows must always be the same size."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "If a swing trader checks market structure on the daily, which timeframe does Techriz give as an example of minor structure?",
+    "options": [
+     "H4",
+     "Weekly",
+     "Monthly",
+     "Yearly"
+    ],
+    "answer": 0
+   },
+   {
+    "text": "What do the minor trends inside a major trend do, according to Techriz?",
+    "options": [
+     "They replace the higher-timeframe trend.",
+     "They cancel out the major trend.",
+     "They only appear on the weekly timeframe.",
+     "They deliver price to where the higher timeframe wants it to go."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "What does Techriz say about the end of a trend?",
+    "options": [
+     "It is always a ranging market.",
+     "It is a bigger version of the same trend.",
+     "It is the beginning of a new one.",
+     "It is a signal to stop trading."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "When a downtrend ends, what does Techriz say about the trend that forms next?",
+    "options": [
+     "A new trend forms, but you cannot say for sure whether it is an uptrend or a ranging market.",
+     "It always becomes an uptrend.",
+     "It always becomes a ranging market.",
+     "Nothing forms until the weekly close."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "What does Techriz say about the moves inside the bigger structure, which he calls internal structure?",
+    "options": [
+     "They cannot be traded.",
+     "They are tradable, and he traded them himself.",
+     "They must always be ignored.",
+     "They matter only on the weekly timeframe."
+    ],
+    "answer": 1
+   },
+   {
+    "text": "What is a break of structure (BOS) responsible for, according to Techriz?",
+    "options": [
+     "Changing the trend to a different one.",
+     "Marking out a ranging market.",
+     "Ending the trend.",
+     "Continuing price in the same direction."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "What is a change of character responsible for, according to Techriz?",
+    "options": [
+     "Continuing price in the same direction.",
+     "Creating a ranging market.",
+     "Changing the trend to a different one.",
+     "Mitigating every point of interest."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "When does Techriz say a break of structure has happened?",
+    "options": [
+     "Price successfully closes above a previous high or low, using a body close.",
+     "Price touches a previous high with a wick only.",
+     "Price reaches the equilibrium of the range.",
+     "Price returns to a point of interest."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "In an uptrend, what does Techriz say the protected level is?",
+    "options": [
+     "The higher highs",
+     "The higher lows",
+     "The equal highs",
+     "The starting candle"
+    ],
+    "answer": 1
+   },
+   {
+    "text": "When does Techriz say a change of character has happened in an uptrend?",
+    "options": [
+     "Price makes a new high.",
+     "Price wicks briefly into a high.",
+     "Price retraces to a point of interest.",
+     "Price breaks below the protected higher low and closes below it."
+    ],
+    "answer": 3
+   },
+   {
+    "text": "After a change of character, what does Techriz teach his students to wait for?",
+    "options": [
+     "A new fair value gap.",
+     "A news release.",
+     "A break of structure in the new direction as confirmation, before looking for unmitigated points of interest.",
+     "A second change of character."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "Which list contains the three ways Techriz says to anticipate a change of character?",
+    "options": [
+     "Reduced momentum, equilibrium shift, and liquidity grab",
+     "Reduced momentum, failure swing, and expansion break",
+     "Failure swing, expansion break, and equal highs",
+     "Reduced momentum, trendline break, and indicator crossover"
+    ],
+    "answer": 1
+   },
+   {
+    "text": "How does Techriz describe a change of character caused by reduced momentum?",
+    "options": [
+     "Price breaks highs with strong momentum, the momentum dies out, price sweeps a high with a wick without closing above, then drops and breaks.",
+     "Price breaks highs with ever-increasing momentum.",
+     "Price stays inside a range for weeks.",
+     "Price makes a new high on every candle."
+    ],
+    "answer": 0
+   },
+   {
+    "text": "Which signal does Techriz call the most effective trend change signal?",
+    "options": [
+     "Expansion break",
+     "Reduced momentum",
+     "A simple range break",
+     "Failure swing"
+    ],
+    "answer": 3
+   },
+   {
+    "text": "How does Techriz describe an expansion break?",
+    "options": [
+     "A slow, progressive break over many candles that is the most effective signal.",
+     "A return of price to the range.",
+     "One or two long candles, often sponsored by news or high volume, that break the low; he considers it the least effective and rarely uses it.",
+     "A wick that touches a high and closes below it."
+    ],
+    "answer": 2
+   },
+   {
+    "text": "What does Techriz say about the timeframes on which these shifts appear?",
+    "options": [
+     "They are not timeframe specific, and can be found on the H4 as well as other timeframes.",
+     "They appear only on the H8 timeframe.",
+     "They appear only on the daily timeframe.",
+     "They appear only on the M1 timeframe."
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "lesson-6",
+  "title": "Next lesson coming soon",
+  "youtubeId": "",
+  "comingSoon": true,
+  "questions": []
+ },
+ {
+  "id": "lesson-7",
+  "title": "Next lesson coming soon",
+  "youtubeId": "",
+  "comingSoon": true,
+  "questions": []
+ },
+ {
+  "id": "lesson-8",
+  "title": "Next lesson coming soon",
+  "youtubeId": "",
+  "comingSoon": true,
+  "questions": []
+ },
+ {
+  "id": "lesson-9",
+  "title": "Next lesson coming soon",
+  "youtubeId": "",
+  "comingSoon": true,
+  "questions": []
+ },
+ {
+  "id": "lesson-10",
+  "title": "Next lesson coming soon",
+  "youtubeId": "",
+  "comingSoon": true,
+  "questions": []
+ },
+ {
+  "id": "lesson-11",
+  "title": "Next lesson coming soon",
+  "youtubeId": "",
+  "comingSoon": true,
+  "questions": []
+ },
+ {
+  "id": "lesson-12",
+  "title": "Next lesson coming soon",
+  "youtubeId": "",
+  "comingSoon": true,
+  "questions": []
+ }
+]
